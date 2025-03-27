@@ -113,7 +113,7 @@ label= "BASE"                              ;
 // ╷           ╷           ╷           ╷           ╷           ╷           ╷   ╷           ╷           ╷           ╷           ╷           ╷           ╷
 
                 &kp B       &kp L       &kp D       &kp W       &kp Z           &kp J       &kp F       &kp O       &kp U       &kp COMMA
-                &hml LGUI N &hml LALT R &hml LSHIFT T &hml LCTRL S  &kp G       &kp Y       &hmr LCTRL H &hmr LSHIFT A &hmr LALT E &hml LGUI I
+                &hml LGUI N &hml LALT R &hml LSHIFT T &hml LCTRL S  &kp G       &kp Y       &hmr LCTRL H &hmr LSHIFT A &hmr LALT E &hmr LGUI I
     &kp Q       &kp X       &kp Q       &kp M       &kp C       &kp V           &kp K       &kp P       &kp SQT     &kp SEMI    &kp DOT     &kp BSLH
                                         &lt NAV ESC &kp SPACE   &kp RET         &sk LSHIFT  &kp BSPC    &lt SYM TAB   
                         >;
